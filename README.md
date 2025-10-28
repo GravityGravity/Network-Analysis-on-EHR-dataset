@@ -18,6 +18,12 @@ This research was conducted as part of a broader effort to **learn about network
 Through this project, our team gained practical experience in building bipartite networks, applying Python libraries such as NetworkX for structural analysis, and interpreting how statistical and graphical properties can uncover meaningful patterns in complex clinical datasets.
 
 ## 📊 Visual Highlights
+<p align="center">
+  <img src="Screenshots/Filtered graph without P-0.png" alt="Filtered graph with labels">
+</p>
+<p align="center">
+  <img src="Screenshots/Filtered Graph.png" alt="Filtered Graph without labels">
+</p>
 
 ## 🧠 Key Findings
 
