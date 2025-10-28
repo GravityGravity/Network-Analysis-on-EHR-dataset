@@ -19,7 +19,7 @@ Through this project, our team gained practical experience in building bipartite
 
 ## 📊 Visual Highlights
 <p align="center">
-  <img src="Screenshots/Filtered graph without P-0.png" alt="Filtered graph with labels">
+  <img src="Screenshots/Filtered graph without P-0.png" alt="Filtered graph with labels" width="600px">
 </p>
 <p align="center">
   <img src="Screenshots/Unfiltered Graph.png" alt="Unfiltered graph" width="600px">
