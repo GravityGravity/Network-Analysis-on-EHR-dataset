@@ -12,7 +12,7 @@
 
 This project explores how medical procedures relate to subsequent drug exposures using a subset of the **EHRShot dataset** from the first six months of 2020.
 
-This repo contains a research paper created by our team.  The file is: 'Do Procedures Drive Prescriptions A Quantitative Analysis - Research Paper.pdf' and is based on the question:
+This repo contains a research paper created by our team.  The file is: **'Do Procedures Drive Prescriptions A Quantitative Analysis - Research Paper.pdf'** and is based on the question:
 > **"If a medical procedure was performed in the first half of 2020, what was the likelihood of specific drug exposure?"**
 
 This research was conducted as part of a broader effort to **learn about network graph structure generation** and to develop hands-on experience in data preprocessing, graph modeling, and metric computation using real-world healthcare data. 
