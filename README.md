@@ -17,9 +17,18 @@ This research was conducted as part of a broader effort to **learn about network
 
 Through this project, our team gained practical experience in building bipartite networks, applying Python libraries such as NetworkX for structural analysis, and interpreting how statistical and graphical properties can uncover meaningful patterns in complex clinical datasets.
 
+## 📊 Visual Highlights
 
-## 🧩 Repository Overview
-This repository contains the data processing scripts, graph construction code, and visual analyses used for the study.  
-Each script serves a specific function in preparing and analyzing the EHRShot dataset.
+## 🧠 Key Findings
 
-### **Repository Structure**
+- Medication exposure patterns are **highly centralized**, with a small number of procedures driving the majority of prescriptions.  
+- Network metrics reveal that **high-frequency procedures** form the structural core of healthcare activity.  
+- These findings highlight how **procedural workflows** shape overall prescribing behavior within clinical systems.
+
+## ⚙️ Tools and Libraries Used
+
+- **Python 3.10+**
+- **pandas** — data manipulation and filtering  
+- **NetworkX** — graph creation and network metric computation  
+- **matplotlib** — visualizations and scatter plots  
+- **tqdm** — progress tracking for large file operations  
