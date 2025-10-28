@@ -1,0 +1,3 @@
+pip install networkX==3.5
+pip install tqdm
+pip install matplotlib
