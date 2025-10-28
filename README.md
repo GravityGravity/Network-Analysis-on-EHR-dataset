@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Screenshots/Unfiltered Graph.png" alt="Network Visualization Banner" width="85%">
+  <img src="Screenshots/Graph Banner.png" alt="Network Visualization Banner" width="85%">
 </p>
 
 # 🧠 Network-Analysis-on-EHR-dataset
