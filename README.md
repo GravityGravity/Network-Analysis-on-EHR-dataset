@@ -1,6 +1,6 @@
 # 🧠 Network-Analysis-on-EHR-dataset
 
-### 👥 Authors
+#### 👥 Authors
 - **Author 1** — GravityGravity *(http://github.com/GravityGravity)*
 - **Author 2** — Starman4xz *(http://github.com/Starman4xz)*
 
