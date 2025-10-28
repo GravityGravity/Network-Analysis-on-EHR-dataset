@@ -1,0 +1,30 @@
+
+FILTERED NETWORK METRICS
+-------------------------
+Nodes: 97
+Edges: 244
+Density: 0.0524
+Average Degree: 5.03
+Average Weighted Degree: 4728.14
+Average Closeness: 0.4418
+Edge Weight Summary:
+  - Min: 503
+  - Max: 4037
+  - Mean: 939.82
+  - Median: 735.5
+
+---------------------------------------
+
+COMPLETE NETWORK METRICS
+-------------------------
+Nodes: 2065
+Edges: 106538
+Density: 0.0500
+Average Degree: 103.18
+Average Weighted Degree: 1642.20
+Average Closeness: 0.3904
+Edge Weight Summary:
+  - Min: 1
+  - Max: 25000
+  - Mean: 15.92
+  - Median: 2.0
