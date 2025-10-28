@@ -22,7 +22,7 @@ Through this project, our team gained practical experience in building bipartite
   <img src="Screenshots/Filtered graph without P-0.png" alt="Filtered graph with labels">
 </p>
 <p align="center">
-  <img src="Screenshots/Unfiltered Graph.png" alt="Unfiltered graph">
+  <img src="Screenshots/Unfiltered Graph.png" alt="Unfiltered graph" width="600px">
 </p>
 
 ## 🧠 Key Findings
